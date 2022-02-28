@@ -1,6 +1,6 @@
 ﻿;Copyright 2004-2016 John T. Haller of PortableApps.com
 
-;Website: http://PortableApps.com/FirefoxPortable
+;Website: http://PortableApps.com/NelsonPortable
 
 ;This software is OSI Certified Open Source Software.
 ;OSI Certified is a certification mark of the Open Source Initiative.
